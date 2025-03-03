@@ -1,0 +1,18 @@
+{
+  "name": "golden-routes",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "zuplo dev",
+    "test": "zuplo test"
+  },
+  "dependencies": {
+    "zuplo": "^6"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "prettier": "^3",
+    "typescript": "^5"
+  }
+}
